@@ -8,4 +8,4 @@ I'm named the Usman
 - 💬 Ask me about anything
 - 📫 How to reach me: usmansbk@gmail.com
 - 😄 Pronouns: Us/Man
-- ⚡ Fun fact: I love Manga, Manhwa, and Animes
+- ⚡ Fun fact: I love Manga, Manhwa, and Animes. I play League of Legends, Dota2, and COD Mobile

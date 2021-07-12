@@ -10,9 +10,9 @@
 #### Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-  
+
 #### Skills
-  
+
 #### Tools
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)

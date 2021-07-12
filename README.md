@@ -1,6 +1,11 @@
 ## About Myself
 
 ## Languages, Skills & Tools
+  #### Languages
+  
+  #### Skills
+  
+  #### Tools
 
 ## Statistics
 

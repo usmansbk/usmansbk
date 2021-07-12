@@ -1,6 +1,6 @@
 # Hi, I'm Usman!
 
-I'm a full-stack web developer. I enjoy building pixel-perfect user interfaces with React, and writing clean and elegant JavaScript codes.
+A Full-stack web developer. I enjoy building pixel-perfect user interfaces with React, and writing clean and elegant JavaScript codes.
 
 I'm currently studying at Microverse, an online school for remote software developers, learning to work by collaborating and pair programming with developers around the world.
 

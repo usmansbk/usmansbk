@@ -14,9 +14,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
 
-### Learning
-[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 
+[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 
 ## Statistics
 

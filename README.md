@@ -1,6 +1,6 @@
 ## About Myself
 
-## Tech-Stack, Skills & Tools
+## Languages, Skills & Tools
 
 ## Statistics
 

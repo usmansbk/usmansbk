@@ -1,4 +1,11 @@
-## About Myself
+# Hi, I'm Usman!
+
+I'm a full-stack web developer. I enjoy building pixel-perfect user interfaces, and writing clean and elegant codes.
+
+I'm currently studying at Microverse, an online school for remote software developers, learning to work by collaborating and pair programming with developers around the world.
+
+If you like what you see, and have a project you need coded, don’t hesitate to contact me.
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-suleiman-82b444140/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
 

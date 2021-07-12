@@ -2,7 +2,7 @@
 
 A Full-stack web developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript codes.
 
-I'm currently studying at Microverse, an online school for remote software developers, learning to work by collaborating and pair programming with developers around the world.
+I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world.
 
 If you like what you see, and have a project you need coded, don’t hesitate to contact me.
 

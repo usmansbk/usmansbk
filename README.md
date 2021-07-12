@@ -9,7 +9,6 @@
 
 #### Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
   
 #### Skills

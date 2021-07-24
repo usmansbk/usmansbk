@@ -9,6 +9,8 @@ If you like what you [see](https://usmansbk.github.io), and have a project you n
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-suleiman-82b444140/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
 
+⚡Fun Fact: Simplicity is Art!
+
 #### Latest Blog Post
 
 - [To-Do List with Observer Pattern](https://dev.to/devusman/to-do-list-with-observer-pattern-1cl7)
@@ -30,3 +32,4 @@ If you like what you [see](https://usmansbk.github.io), and have a project you n
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmansbk&count_private=true&show_icons=true&theme=onedark)](https://github.com/usmansbk/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmansbk&layout=compact&theme=onedark)](https://github.com/usmansbk/github-readme-stats)
+

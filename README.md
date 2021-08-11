@@ -9,7 +9,7 @@ If you like what you [see](https://usmansbk.github.io), and have a project you n
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-suleiman-82b444140/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
 
-⚡Fun Fact: Simplicity is Art!
+⚡Fun Fact: I'm in the top 1% [GitHub commits in Nigeria](https://commits.top/nigeria.html) 😁
 
 #### Latest Blog Post
 

@@ -2,10 +2,6 @@
 
 A Full-stack web developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
 
-I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world.
-
-If you like what you [see](https://usmansbk.github.io), and have a project you need coded, don’t hesitate to contact me.
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
 

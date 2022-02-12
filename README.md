@@ -5,7 +5,7 @@ A Full-stack web developer. I enjoy building pixel-perfect user interfaces with 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
 
-⚡Fun Fact: I'm in the top 1% [GitHub commits in Nigeria](https://commits.top/nigeria.html)😎
+⚡Fun Fact: I'm in the top 1% [GitHub commits in Nigeria](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/nigeria.md)😎
 
 #### Latest Blog Post
 

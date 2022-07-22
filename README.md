@@ -1,6 +1,6 @@
 # Hi, I'm Usman!
 
-A Full-stack web developer. I enjoy building pixel-perfect user interfaces with React and writing clean and elegant JavaScript code.
+I'm a Full Stack Software Engineer who loves building open-source tools. I recently developed an authentication microservice template that lets developers bootstrap projects with more control. I'm building a mobile app that allows students to share their timetables easily. Send me a message if you like what you see.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)

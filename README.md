@@ -5,8 +5,6 @@ I'm a Full Stack Software Engineer who loves building open-source tools. I recen
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
 
-⚡Fun Fact: I'm in the top 1% [GitHub commits in Nigeria](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/nigeria.md)😎
-
 #### Latest Blog Post
 
 - [To-Do List with Observer Pattern](https://dev.to/devusman/to-do-list-with-observer-pattern-1cl7)

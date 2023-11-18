@@ -3,7 +3,9 @@
 I'm a Full Stack Software Engineer who loves building open-source tools. I recently developed an [authentication microservice template](https://github.com/usmansbk/sequelize-graphql-server-admin) that lets developers bootstrap projects with more control. Send me a message if you like what you see.
 
 ## Current Project
+
 - [Paper Timetable](https://paper-timetable.vercel.app/): Timetable mobile app that allows Teachers and Students to share timetables with ease. Built with React Native, Apollo GraphQL, Prisma, & ExpressJS.
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)

@@ -7,7 +7,7 @@ I'm a Full Stack Software Engineer who loves building open-source tools. I recen
 
 #### Current Projects
 
-- [Paper Timetable](https://paper-timetable.vercel.app/): Timetable mobile app that allows Teachers and Students to share timetables with ease. Built with React Native, Apollo GraphQL, Prisma, & ExpressJS.
+- [Paper Timetable](https://www.papertimetable.com/): Timetable mobile app that allows Teachers and Students to share timetables with ease. Built with React Native, Apollo GraphQL, Prisma, & ExpressJS.
 
 #### Latest Blog Post
 

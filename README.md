@@ -9,7 +9,7 @@ I'm a Full Stack Software Engineer who loves building open-source tools. I recen
 
 - [Paper Timetable](https://www.papertimetable.com/): Timetable mobile app that allows Teachers and Students to share timetables with ease. Built with React Native, Apollo GraphQL, Prisma, & ExpressJS.
 
-#### Latest Blog Post
+#### Blog Post
 
 - [To-Do List with Observer Pattern](https://dev.to/devusman/to-do-list-with-observer-pattern-1cl7)
 - [Drag Sort with HTML5](https://dev.to/devusman/drag-drop-sort-list-1ap4)

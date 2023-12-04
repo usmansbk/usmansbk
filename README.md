@@ -1,6 +1,6 @@
 # Hi, I'm Usman!
 
-I'm a Full Stack Software Engineer who loves building open-source tools. I recently developed an [authentication microservice template](https://github.com/usmansbk/sequelize-graphql-server-admin) that lets developers bootstrap projects with more control. Send me a message if you like what you see.
+I'm a Full Stack Software Engineer who loves building open-source tools. I recently developed an [authentication microservice template](https://github.com/usmansbk/sequelize-graphql-server-admin) that lets developers bootstrap projects with more control. Feel free to send me a message if you like what you see.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
@@ -8,6 +8,7 @@ I'm a Full Stack Software Engineer who loves building open-source tools. I recen
 #### Current Projects
 
 - [Paper Timetable](https://www.papertimetable.com/): Timetable mobile app that allows Teachers and Students to share timetables with ease. Built with React Native, Apollo GraphQL, Prisma, & ExpressJS.
+- [User management API Server template](https://github.com/usmansbk/userbase-api-server-template): Create a self-managed User management system API server. Built with Apollo Server, Prisma, & ExpressJS.
 
 #### Blog Post
 

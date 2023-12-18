@@ -1,6 +1,6 @@
 # Hi, I'm Usman!
 
-I'm a Full Stack Software Engineer who loves building open-source tools. I recently developed an [authentication microservice template](https://github.com/usmansbk/sequelize-graphql-server-admin) that lets developers bootstrap projects with more control. Feel free to send me a message if you like what you see.
+Full Stack Software Engineer who loves writing well-structured, clean, and elegant JavaScript code.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)

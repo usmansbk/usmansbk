@@ -7,7 +7,7 @@ Full Stack Software Engineer who loves writing well-structured, clean, and elega
 
 #### Current Projects
 
-- [Ring](https://play.google.com/store/apps/details?id=com.babakolo.ring): A mobile app for couples that allows them to share reminders, to-do lists, mood tracker, albums, and chat. Built with React Native (Expo), Apollo GraphQL, Prisma, & ExpressJS.
+- [Ring](https://www.partnersring.com/): A mobile app for couples that should allow them to share reminders, to-do lists, mood tracker, albums, and chat. Built with React Native (Expo), Apollo GraphQL, Prisma, & ExpressJS.
 - [Paper Timetable](https://www.papertimetable.com/): Timetable mobile app that allows Teachers and Students to share timetables with ease. Built with React Native, Apollo GraphQL, Prisma, & ExpressJS.
 - [User management API Server template](https://github.com/usmansbk/userbase-api-server-template): Create a self-managed User management system API server. Built with Apollo Server, Prisma, & ExpressJS.
 

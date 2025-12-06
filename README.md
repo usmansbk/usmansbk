@@ -1,6 +1,6 @@
 # Hi, I'm Usman!
 
-Full Stack Software Engineer who loves writing well-structured, clean, and elegant JavaScript code.
+~~Full Stack Software Engineer~~ A Fully Realized Software Engineer. Master of all elements of software architecture. I love writing well-structured, clean, and elegant JavaScript code.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansbk/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc@usmansbk@gmail.com)
